@@ -1,4 +1,4 @@
-package com.furkanyesilyurt.Singleton;
+package com.furkanyesilyurt.Creational.Singleton;
 
 public class App {
 

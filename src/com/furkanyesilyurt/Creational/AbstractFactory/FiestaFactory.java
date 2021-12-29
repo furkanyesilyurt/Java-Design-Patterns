@@ -1,4 +1,4 @@
-package com.furkanyesilyurt.AbstractFactory;
+package com.furkanyesilyurt.Creational.AbstractFactory;
 
 public class FiestaFactory implements CarFactory{
     @Override

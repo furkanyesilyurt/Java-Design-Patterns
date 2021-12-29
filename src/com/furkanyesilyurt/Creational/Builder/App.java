@@ -1,4 +1,4 @@
-package com.furkanyesilyurt.Builder;
+package com.furkanyesilyurt.Creational.Builder;
 
 public class App {
 

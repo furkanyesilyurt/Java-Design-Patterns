@@ -1,4 +1,4 @@
-package com.furkanyesilyurt.Prototype;
+package com.furkanyesilyurt.Creational.Prototype;
 
 import java.util.ArrayList;
 import java.util.List;

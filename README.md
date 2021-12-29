@@ -7,11 +7,11 @@ Yazılım tasarım kalıpları, nesne yönelimli tasarım ortamında tekrar tekr
 
 Bu tasarım desenleri tamamen sınıf somutlaştırma ile ilgilidir. Bu model ayrıca sınıf yaratma kalıplarına ve nesne yaratma kalıplarına ayrılabilir. Sınıf oluşturma kalıpları, somutlaştırma sürecinde kalıtımı etkin bir şekilde kullanırken, nesne oluşturma kalıpları işi yapmak için yetkilendirmeyi etkili bir şekilde kullanır.
 
-- **[Abstract Factory](https://github.com/furkanyesilyurt/Java-Design-Patterns/tree/main/src/com/furkanyesilyurt/AbstractFactory)** , Birkaç sınıf ailesinin bir örneğini oluşturur.
-- **Builder** , Nesne yapısını temsilinden ayırır.
-- **[Factory Method](https://github.com/furkanyesilyurt/Java-Design-Patterns/tree/main/src/com/furkanyesilyurt/FactoryDesign)**, Birkaç türetilmiş sınıfın bir örneğini oluşturur.
-- **Prototype** , Kopyalanacak veya klonlanacak tamamen başlatılmış bir örnek.
-- **[Singleton](https://github.com/furkanyesilyurt/Java-Design-Patterns/tree/main/src/com/furkanyesilyurt/Singleton)** , Yalnızca tek bir örneğinin bulunabileceği bir sınıf.
+- **[Abstract Factory](https://github.com/furkanyesilyurt/Java-Design-Patterns/tree/main/src/com/furkanyesilyurt/Creational/AbstractFactory)** , Birkaç sınıf ailesinin bir örneğini oluşturur.
+- **[Builder](https://github.com/furkanyesilyurt/Java-Design-Patterns/tree/main/src/com/furkanyesilyurt/Creational/Builder)** , Nesne yapısını temsilinden ayırır.
+- **[Factory Method](https://github.com/furkanyesilyurt/Java-Design-Patterns/tree/main/src/com/furkanyesilyurt/Creational/FactoryDesign)**, Birkaç türetilmiş sınıfın bir örneğini oluşturur.
+- **[Prototype](https://github.com/furkanyesilyurt/Java-Design-Patterns/tree/main/src/com/furkanyesilyurt/Creational/Prototype)** , Kopyalanacak veya klonlanacak tamamen başlatılmış bir örnek.
+- **[Singleton](https://github.com/furkanyesilyurt/Java-Design-Patterns/tree/main/src/com/furkanyesilyurt/Creational/Singleton)** , Yalnızca tek bir örneğinin bulunabileceği bir sınıf.
 
 
 ## Structural Patterns

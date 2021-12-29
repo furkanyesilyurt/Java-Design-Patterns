@@ -1,4 +1,4 @@
-package com.furkanyesilyurt.FactoryDesign;
+package com.furkanyesilyurt.Creational.FactoryDesign;
 
 public interface Car {
 

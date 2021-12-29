@@ -1,13 +1,13 @@
-package com.furkanyesilyurt.AbstractFactory;
+package com.furkanyesilyurt.Creational.AbstractFactory;
 
-public class Fiesta implements Car {
+public class Megane implements Car {
 
     private String marka;
     private String model;
     private int year;
     private Long price;
 
-    public Fiesta(String marka, String model, int year, Long price) {
+    public Megane(String marka, String model, int year, Long price) {
         this.marka = marka;
         this.model = model;
         this.year = year;
@@ -36,7 +36,7 @@ public class Fiesta implements Car {
 
     @Override
     public String toString() {
-        return "Fiesta{" +
+        return "Megane{" +
                 "marka='" + marka + '\'' +
                 ", model='" + model + '\'' +
                 ", year=" + year +
