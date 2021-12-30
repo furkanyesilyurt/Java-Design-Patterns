@@ -18,7 +18,7 @@ Bu tasarım desenleri tamamen sınıf somutlaştırma ile ilgilidir. Bu model ay
 
 Bu tasarım desenleri tamamen Sınıf ve Nesne kompozisyonu ile ilgilidir. Yapısal sınıf oluşturma kalıpları, arabirimleri oluşturmak için kalıtımı kullanır. Yapısal nesne kalıpları, yeni işlevsellik elde etmek için nesneleri oluşturmanın yollarını tanımlar.
 
-- **Adapter** , Farklı sınıfların arayüzlerini eşleştirir.
+- **[Adapter](https://github.com/furkanyesilyurt/Java-Design-Patterns/tree/main/src/com/furkanyesilyurt/Structural/Adapter)** , Farklı sınıfların arayüzlerini eşleştirir.
 - **Bridge** , Bir nesnenin arayüzünü uygulamasından ayırır.
 - **Composite** , Basit ve bileşik nesnelerin ağaç yapısı.
 - **Decorator** , Nesnelere dinamik olarak sorumluluklar ekler.
