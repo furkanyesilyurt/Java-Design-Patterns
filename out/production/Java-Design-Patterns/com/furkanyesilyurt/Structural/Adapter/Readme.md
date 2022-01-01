@@ -1,0 +1,3 @@
+# Adapter Design Pattern
+
+Adapter tasarım kalıbı bir sistem parçasının, var olan başka bir sisteme adapte edilmesini ve o sistem içerisinde kullanılabilmesini sağlayan bir kalıptır. Aşağıda bununla ilgili yaptığımız örnekte IError interfacesinden türeyen DbError ve ServiceError classlarından oluşan bir class grubu yani sistem ve bu sisteme dahil olması geren Fax classı ve bunu gerçekleştiren FaxAdapter classı söz konusudur. Yazdığımız adapter class Fax class’ının IError sistem grubuna entegre olmasını sağlamaktadır.
