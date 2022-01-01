@@ -4,7 +4,7 @@ Composite tasarım kalıbı tekil component ve birbirinden farklı componentler 
 
 ## UML Diyagram
 
-[](https://github.com/furkanyesilyurt/Java-Design-Patterns/tree/main/src/com/furkanyesilyurt/Structural/Composite/uml-diagram.png)
+![](https://github.com/furkanyesilyurt/Java-Design-Patterns/blob/main/src/com/furkanyesilyurt/Structural/Composite/uml-diagram.PNG)
 
 ## Kaynakça
 
