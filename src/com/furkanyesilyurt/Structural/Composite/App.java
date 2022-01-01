@@ -29,7 +29,6 @@ public class App {
 
         computer.getPrice();
 
-
     }
 
 }
