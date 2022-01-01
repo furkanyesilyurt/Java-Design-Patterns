@@ -24,7 +24,7 @@ Bu tasarım desenleri tamamen Sınıf ve Nesne kompozisyonu ile ilgilidir. Yapı
 - **Decorator** , Nesnelere dinamik olarak sorumluluklar ekler.
 - **Facade** , Tüm bir alt sistemi temsil eden tek bir sınıf.
 - **Flyweight** , Verimli paylaşım için kullanılan ayrıntılı bir örnek.
-- **Proxy** , Başka bir nesneyi temsil eden bir nesne.
+- **[Proxy](https://github.com/furkanyesilyurt/Java-Design-Patterns/tree/main/src/com/furkanyesilyurt/Structural/Proxy)** , Başka bir nesneyi temsil eden bir nesne.
 
 
 ## Behavioral Patterns
